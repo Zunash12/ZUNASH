@@ -69,8 +69,7 @@
         <p>Astronauta de la NASA</p>
     </header>
     <nav>
-        <a href="#mi-historia">Mi Historia</a>
-        <a href="#mis-reacciones">Mis Reacciones</a>
+        <a href="#mi-historia">Mi Historia</a
         <a href="#preguntas">Preguntas</a>
         <a href="#contacto">Contacto</a>
         <a href="#que-hacer-adelante">Qué Hacer Adelante</a>
@@ -83,20 +82,18 @@
         </div>
         <img src="https://media.giphy.com/media/l0MYHxeL9fFafgGJW/giphy.gif" alt="Meteoritos" class="gif">
     </section>
-    <section id="mis-reacciones">
         <div class="content">
-            <h2>Mis Reacciones</h2>
-            <p>Aquí compartiré mis reacciones y pensamientos sobre diversos temas relacionados con mi trabajo y experiencias personales.</p>
+           
         </div>
     </section>
     <section id="preguntas">
         <div class="Que hago en mi tiempo tibre?">
             <h2>Preguntas</h2>
-            <p>Si tienes alguna pregunta sobre mi carrera, mi vida o cualquier otro tema, ¡no dudes en preguntar!</p>
+            <p>Si tienes alguna pregunta sobre mi carrera, mi vida o cualquier otro tema, ¡no dudes en preguntar! aqui te dejo un correo para esribirme</p>
         </div>
     </section>
-    <section id="contacto">
-        <div class="content">
+    <section id="zunash.moeed@montcada.lasalle.cat">
+        <div class="">
             <h2>Contacto</h2>
             <p>Para ponerte en contacto conmigo, puedes enviarme un correo electrónico a <a href="mailto:zunash@example.com">zunash@example.com</a>.</p>
         </div>
