@@ -6,14 +6,14 @@
     <title>Zunash Moeed - Astronauta de la NASA</title>
     <style>
         body {
-            background-color: #1e1e2f;
+            background-color: #1e1e6f;
             color: #ffffff;
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #4a148c;
+            background-color: #oa148c;
             color: #ffffff;
             text-align: center;
             padding: 20px 0;
@@ -90,7 +90,7 @@
         </div>
     </section>
     <section id="preguntas">
-        <div class="content">
+        <div class="Que hago en mi tiempo tibre?">
             <h2>Preguntas</h2>
             <p>Si tienes alguna pregunta sobre mi carrera, mi vida o cualquier otro tema, ¡no dudes en preguntar!</p>
         </div>
